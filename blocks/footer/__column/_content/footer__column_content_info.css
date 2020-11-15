@@ -1,0 +1,6 @@
+.footer__colunm_content_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: auto;
+}

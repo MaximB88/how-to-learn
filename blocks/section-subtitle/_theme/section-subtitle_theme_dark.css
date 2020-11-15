@@ -1,0 +1,8 @@
+.section-subtitle_theme_dark {
+    display: flex;
+    margin: 0;
+    line-height: 34px;
+    font-size: 24px;
+    color: white;
+    z-index: 2;
+}
