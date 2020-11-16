@@ -2,6 +2,8 @@
     color: #2f80ed;
     text-decoration: none;
     transition: color 1s linear;
+    line-height: 42px;
+    font-size: 30px;
 }
 
 .khan__buy-link:hover {

@@ -1,6 +1,7 @@
 .khan__book-pic {
-    background-image: url(../../../sprint-2-sources/images_sprint-2/khan-book.jpg);
     margin-right: 48px;
     height: 620px;
     width: 608px;
+    object-fit: cover;
+    object-position: top;
 }

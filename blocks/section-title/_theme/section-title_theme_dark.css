@@ -1,10 +1,5 @@
 .section-title_theme_dark {
-    display: flex;
-    margin-bottom: 20px;
-    line-height: 1.15;
-    font-size: 60px;
     margin: 0 0 20px 0;
-    font-weight: bold;
     color: white;
     z-index: 2;
 }
